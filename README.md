@@ -1,6 +1,6 @@
 # C. Coelho, M. F. P. Costa, and L.L. Ferrás, "The role of adaptive activation functions in Fractional Physics-Informed Neural Networks"
 
-![License](https://img.shields.io/github/license/lululxvi/deepxde)](https://github.com/lululxvi/deepxde/blob/master/LICENSE)
+![License](https://img.shields.io/github/license/lululxvi/deepxde)]
 
 This library provides a Jupyter Notebook to replicate the experiments done in the paper "The role of adaptive activation functions in Fractional Physics-Informed Neural Networks", see reference [[add link]](https://arxiv.org).
 Note that this repository has a copy of the official DeepXDE library [[1]](https://github.com/lululxvi/deepxde) with some modified portions of code: added code to print the values of the adaptive variables after training is completed, the number $n$ in 'LAAF-n' was converted to be the initialization of the adaptive variables.
