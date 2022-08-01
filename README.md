@@ -4,7 +4,7 @@
 
 This library provides a Jupyter Notebook to replicate the experiments done in the paper "The role of adaptive activation functions in Fractional Physics-Informed Neural Networks", see reference [[add link]](https://arxiv.org).
 
-Note that this repository has a copy (not the latest) of the official DeepXDE library [[1]](https://github.com/lululxvi/deepxde) with some modified portions of code: added code to print the values of the adaptive variables after training is completed, the number $n$ in 'LAAF-n' was converted to be the initialization of the adaptive variables.
+Note that this repository has a copy (not the latest) of the official DeepXDE library [[1]](https://github.com/lululxvi/deepxde) with some modified portions of code: added code to print the values of the adaptive variables after training is completed, the number n in 'LAAF-n' was converted to be the initialization of the adaptive variables.
 
 
 ## Usage
