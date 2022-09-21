@@ -22,7 +22,8 @@ If you found this resource useful in your research, please consider citing.
   booktitle={},
   pages={},
   year={2022},
-  organization={}
+  organization={Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2021) (AIP
+Conference Proceedings, accepted)}
 }
 
 ```
