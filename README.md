@@ -1,4 +1,5 @@
-# C. Coelho, M. F. P. Costa, and L.L. Ferrás, "The role of adaptive activation functions in Fractional Physics-Informed Neural Networks"
+# C. Coelho, M. F. P. Costa, and L.L. Ferrás, "The role of adaptive activation functions in Fractional Physics-Informed Neural Networks" in Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2022) (AIP
+Conference Proceedings, accepted)
 
 [![License](https://img.shields.io/github/license/lululxvi/deepxde)](https://github.com/lululxvi/deepxde/blob/master/LICENSE)
 
@@ -22,7 +23,7 @@ If you found this resource useful in your research, please consider citing.
   booktitle={},
   pages={},
   year={2022},
-  organization={Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2021) (AIP
+  organization={Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2022) (AIP
 Conference Proceedings, accepted)}
 }
 
